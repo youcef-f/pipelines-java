@@ -1,3 +1,4 @@
+[![Build Status](https://montpari.visualstudio.com/firstpipeline/_apis/build/status/youcef-f.pipelines-java)](https://montpari.visualstudio.com/firstpipeline/_build/latest?definitionId=2)
 
 # Contributing
 
